@@ -1,14 +1,4 @@
-//
-//  main.c
-//  C_thesis
-//
-//  Created by  Yo on 2016/10/27.
-//  Copyright © 2016年  Yo. All rights reserved.
-//
-
-#include <stdio.h>
-#include <math.h>
-#include <stdbool.h>
+輸入一個數字並判斷它是否為 迴文(Palindrome)
 
 bool isPalindrome(int n)
     {
@@ -39,17 +29,3 @@ bool isPalindrome(int n)
             }
         return true;
     }
-
-int main(void) {
-
-    int aa=0;
-    bool result=true;
-
-    
-    result = isPalindrome(10101);
-    printf("%d\n",result);
-
-    
-    
-    return 0;
-}
