@@ -2,6 +2,6 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|9|Palindrome Number|@@|easy|
+|9|Palindrome Number|C|easy|
 
 
