@@ -1,3 +1,8 @@
+###在不考慮overflow的前提下 可以用兩行解決
+要解決 overflow 把 y 型態設為8byte的long
+或者是設計一套機制 來偵測 是否會發生overflow
+
+
 int reverse(int x) {
     int y = 0,y2=0;
     int bit_number=0,bit_check=0;
@@ -5,8 +10,6 @@ int reverse(int x) {
     while(x!=0)
     {
         y = y*10+x%10;
-        if(y > INT_MAX || y < INT_MIN)
-            return 0;
         x=x/10;
         bit_number++;
         
