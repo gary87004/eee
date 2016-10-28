@@ -13,7 +13,7 @@ int reverse(int x) {
         x=x/10;
         bit_number++;
         
-    }
+    }   //確認是否有十位數 若有十位數才有可能overflow
     if(bit_number<10)
         return y;
     else
