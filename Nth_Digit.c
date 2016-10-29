@@ -1,3 +1,4 @@
+//10/29
 int find_digit(int n)
     {
         int p=1;
