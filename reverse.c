@@ -1,7 +1,7 @@
 //在不考慮overflow的前提下 可以用兩行解決
 //要解決 overflow 可以把 y 型態設為8byte的long
 //或者是設計一套機制 來偵測 是否會發生overflow
-10/28
+//10/28
 
 int reverse(int x) {
     int y = 0,y2=0;
