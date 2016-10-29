@@ -1,4 +1,4 @@
-輸入一個數字並判斷它是否為 迴文(Palindrome)
+10/27
 
 bool isPalindrome(int n)
     {
