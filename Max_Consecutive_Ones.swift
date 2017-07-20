@@ -1,7 +1,7 @@
 class Solution {
     func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
         
-    var temp = 0
+     var temp = 0
     var ans  = 0 
     var size = nums.count
     for i in 0...size-1
@@ -12,22 +12,40 @@ class Solution {
                 
             }    
          else
-            if(temp > ans)
-                {
-                ans = temp
-                }
-        if(nums[i]==0)
-			{
-			temp=0	
-			}
+            {
+            temp=0
+            }
+        if(ans < temp)
+            {
+            ans = temp    
+            }
             
         }
-    if(ans > temp)
-        {return ans}
-    else if (ans < temp)
-        {return temp}
-    else
-        {return ans}
+
+    return ans
     
+    }
+}
+
+// 第二種解法
+
+class Solution {
+    func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
+    var sum = 0
+    var max = 0
+    var size = nums.count
+    for i in 0...size-1
+        {
+        sum = (sum + nums[i])*nums[i]
+        if (max<sum)
+            {
+            max = sum
+                
+            }
+            
+            
+        }
+        return max
+   
     }
 }
