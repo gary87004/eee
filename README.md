@@ -9,6 +9,8 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](https://github.com/gary87004/leetcode/blob/master/trailingZeroes.c)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](https://github.com/gary87004/leetcode/blob/master/Add_Digits.c)|easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](https://github.com/gary87004/leetcode/blob/master/Reverse_String.js)|easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[C](https://github.com/gary87004/leetcode/blob/master/Nth_Digit.c)|easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C](https://github.com/gary87004/leetcode/blob/master/arrangeCoins.c)|easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Max_Consecutive_Ones.swift)|easy|
+https://github.com/gary87004/leetcode/blob/master/Reverse_String.js
