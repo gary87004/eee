@@ -1,3 +1,6 @@
+// 不用 + 
+// 用xor and 實作加法
+
 class Solution {
     func getSum(_ a: Int, _ b: Int) -> Int {
         var sum   = 0
