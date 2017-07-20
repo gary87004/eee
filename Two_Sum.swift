@@ -1,3 +1,6 @@
+// 用for 搜尋每一個元素
+// 測試是否為target
+
 class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
     let size = nums.count
