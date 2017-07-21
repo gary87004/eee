@@ -14,6 +14,6 @@
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Two_Integers.swift)|easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[C](https://github.com/gary87004/leetcode/blob/master/Nth_Digit.c)|easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C](https://github.com/gary87004/leetcode/blob/master/arrangeCoins.c)|easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Hamming_Distance.swift)|easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Max_Consecutive_Ones.swift)|easy|
-
 
