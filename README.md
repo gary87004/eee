@@ -2,7 +2,6 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Two_Sum.swift)|easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](https://github.com/gary87004/leetcode/blob/master/reverse.c)|easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](https://github.com/gary87004/leetcode/blob/master/isPalindrome.c)|easy|
