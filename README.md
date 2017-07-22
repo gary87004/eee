@@ -6,6 +6,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C](https://github.com/gary87004/leetcode/blob/master/reverse.c)|easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C](https://github.com/gary87004/leetcode/blob/master/isPalindrome.c)|easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C](https://github.com/gary87004/leetcode/blob/master/Divide_Two_Integers.c)|medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Climbing_Stairs.swift)|easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](https://github.com/gary87004/leetcode/blob/master/trailingZeroes.c)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](https://github.com/gary87004/leetcode/blob/master/Add_Digits.c)|easy|
