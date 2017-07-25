@@ -18,3 +18,4 @@
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C](https://github.com/gary87004/leetcode/blob/master/arrangeCoins.c)|easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Hamming_Distance.swift)|easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Max_Consecutive_Ones.swift)|easy|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Detect_Capital.swift)|easy|
