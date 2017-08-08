@@ -25,4 +25,5 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Hamming_Distance.swift)|easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Max_Consecutive_Ones.swift)|easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Detect_Capital.swift)|easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Maximum_Product_of_Three_Numbers.swift)|easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Square_Numbers.swift)|easy|
