@@ -10,6 +10,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Pow(x,%20n).swift)|medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Climbing_Stairs.swift)|easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Single_Number.swift)|easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Majority_Element.swift)|easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](https://github.com/gary87004/leetcode/blob/master/trailingZeroes.c)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Contains_Duplicate.swift)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
