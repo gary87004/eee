@@ -1,4 +1,4 @@
-#My leetcode solution 27/646
+#My leetcode solution 28/646
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
