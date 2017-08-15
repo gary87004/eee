@@ -1,4 +1,4 @@
-#My leetcode solution 28/646
+#My leetcode solution 29/646
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -18,6 +18,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](https://github.com/gary87004/leetcode/blob/master/Add_Digits.c)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Missing_Number.swift)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Move_Zeroes.swift)|easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Nim_Game.swift)|easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Power_of_Four.swift)|easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](https://github.com/gary87004/leetcode/blob/master/Reverse_String.js)|easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Two_Integers.swift)|easy|
