@@ -12,6 +12,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Single_Number.swift)|easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Majority_Element.swift)|easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](https://github.com/gary87004/leetcode/blob/master/trailingZeroes.c)|easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Rotate_Array.swift)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Swift](https://github.com/gary87004/leetcode/blob/master/House_Robber.swift)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Contains_Duplicate.swift)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
@@ -21,7 +22,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Nim_Game.swift)|easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Power_of_Four.swift)|easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](https://github.com/gary87004/leetcode/blob/master/Reverse_String.js)|easy|
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Intersection_of_Two_Arrays.swift)|easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Intersection_of_Two_Arrays.swift)|easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Two_Integers.swift)|easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[C](https://github.com/gary87004/leetcode/blob/master/Nth_Digit.c)|easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Third_Maximum_Number.swift)|easy|
