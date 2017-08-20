@@ -18,6 +18,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Contains_Duplicate.swift)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](https://github.com/gary87004/leetcode/blob/master/Add_Digits.c)|easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Ugly_Number.swift)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Missing_Number.swift)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Move_Zeroes.swift)|easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Nim_Game.swift)|easy|
