@@ -15,6 +15,7 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[C](https://github.com/gary87004/leetcode/blob/master/trailingZeroes.c)|easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Rotate_Array.swift)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Swift](https://github.com/gary87004/leetcode/blob/master/House_Robber.swift)|easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Count_Primes.swift)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Contains_Duplicate.swift)|easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[C](https://github.com/gary87004/leetcode/tree-save/master/Power_of_Two.c)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C](https://github.com/gary87004/leetcode/blob/master/Add_Digits.c)|easy|
