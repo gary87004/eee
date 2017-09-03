@@ -1,4 +1,4 @@
-#My leetcode solution 35/646
+#My leetcode solution 37/646
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -9,6 +9,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C](https://github.com/gary87004/leetcode/blob/master/Divide_Two_Integers.c)|medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Search_Insert_Position.swift)|easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Pow(x,%20n).swift)|medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sqrt(x).swift)|easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Climbing_Stairs.swift)|easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Single_Number.swift)|easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Majority_Element.swift)|easy|
@@ -34,6 +35,7 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Hamming_Distance.swift)|easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Max_Consecutive_Ones.swift)|easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Detect_Capital.swift)|easy|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Array_Partition_I.swift)|easy|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Distribute_Candies.swift)|easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Maximum_Product_of_Three_Numbers.swift)|easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Square_Numbers.swift)|easy|
