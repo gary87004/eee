@@ -30,6 +30,8 @@
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Valid_Perfect_Square.swift)|easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Two_Integers.swift)|easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[C](https://github.com/gary87004/leetcode/blob/master/Nth_Digit.c)|easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Swift](
+https://github.com/gary87004/leetcode/blob/master/Fizz_Buzz.swift)|easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Third_Maximum_Number.swift)|easy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C](https://github.com/gary87004/leetcode/blob/master/arrangeCoins.c)|easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Hamming_Distance.swift)|easy|
@@ -39,3 +41,4 @@
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Distribute_Candies.swift)|easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Maximum_Product_of_Three_Numbers.swift)|easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Swift](https://github.com/gary87004/leetcode/blob/master/Sum_of_Square_Numbers.swift)|easy|
+
